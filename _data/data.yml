@@ -1,0 +1,315 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: 杨子晔
+    tagline: 在读工学硕士，桥梁工程
+    avatar: photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: ziyeyang@seu.edu.cn
+    phone: (+86) 156-5182-2363 
+    address: 江苏省南京市东南大学九龙湖校区交通大楼721, 211189 #do not add http://
+    website:  #do not add http://
+    linkedin: 
+    github: luohualuanbinfen
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: 
+        level: 
+
+      - idiom: 
+        level: 
+
+      - idiom: 
+        level: 
+
+    interests:
+      - item: 东南大学交通学院桥梁系研三学生，隶属本系长大桥梁建管养与新型组合结构桥梁研发中心。
+        link:
+
+career-profile:
+    title: 个人简介
+    summary: |
+      东南大学交通学院桥梁系研三学生，隶属本系长大桥梁建管养与新型组合结构桥梁研发中心，主要研究方向：新型组合结构桥梁、
+      桥梁施工与工程控制。
+
+education:
+    - degree: <b>在读工学硕士</b>, 研究方向：组合结构
+      university: 东南大学, 桥梁与隧道工程专业
+      time: 2018.09 - 2021.06
+      details: |
+        专业课程： 高等桥梁结构设计原理、桥梁结构分析、结构抗风分析、桥梁动力分析与抗震设计、弹塑性力学 、钢-混凝土组合结构桥梁；
+
+        
+    - degree: <b>工学学士</b>
+      university: 东南大学, 道路桥梁与渡河工程专业
+      time: 2014.09 - 2018.06
+      details: |
+        专业课程： 桥梁工程、结构设计原理、桥涵水文、钢结构与钢桥、桥梁钢-混凝土组合结构、桥梁施工与管理、港航工程、桥梁美学、桥梁计算机辅助设计
+        <div style="text-align: center;">
+          <table width="100%" border="1" cellpadding="2" cellspacing="1">
+          <tr>
+          <td>时间</td>
+          <td>年级</td>
+          <td>绩点</td>
+          <td>专业排名</td>
+          </tr>
+          <tr>
+          <td>2017.9-2018.7</td>
+          <td>大四</td>
+          <td colspan="2">本校保研（东南大学）</td>
+          </tr>
+          <tr>
+          <td>2016.9-2017.7</td>
+          <td>大三</td>
+          <td>4.624</td>
+          <td>1/103</td>
+          </tr>
+          <tr>
+          <td>2015.9-2016.7</td>
+          <td>大二</td>
+          <td>3.65</td>
+          <td>30/103</td>
+          </tr>       
+          <tr>
+          <td>2014.9-2015.7</td>
+          <td>大一</td>
+          <td>3.817</td>
+          <td>15/279</td>
+          </tr>
+          </table>
+        </div>
+
+honors:
+    title: 荣誉获奖
+    item1: 科学研究及工程应用
+    item2: 学业荣誉
+    honor1:
+      - title: 2019.11, 第三届全国大学生“茅以升公益桥—小桥工程”设计大赛, <b>国家级一等奖</b>
+        # number: 国家级一等奖
+        # time: 2019.11
+        link: "https://tc.seu.edu.cn/2019/1111/c840a294623/page.htm"
+      - title: 2019.05, 全国大学生英语竞赛 A 类, <b>国家级三等奖</b>
+        # number: 国家级三等奖
+        # time: 2019.05
+        link: "#"
+      - title: 2018.01, 第一届全国大学生“茅以升公益桥—小桥工程”设计大赛, <b>国家级三等奖</b>
+        # number: 国家级三等奖
+        # time: 2018.01
+        link: "https://tc.seu.edu.cn/2017/1213/c897a205277/page.htm"
+      - title: 2017.12, 第三届全国交通运输院长论坛“新国线大学生优秀论文”, <b>国家级二等奖</b>
+        # number: 国家级二等奖
+        # time: 2017.12
+        link: "#"
+      - title: 2017.04, 美国大学生数学建模竞赛, <b>国际级二等奖</b>
+        # number: 国际级二等奖
+        # time: 2017.04
+        link: "#"
+    honor2:
+      - title: 2019-2020学年<b>中国路桥奖学金</b>
+        # number: 国家级一等奖
+        # time: 2019.11
+        link: "#"
+      - title: 2019-2020学年<b>东南大学交通学院先进个人</b>
+        # number: 国家级三等奖
+        # time: 2019.05
+        link: "#"
+      - title: 2019-2020学年<b>东南大学一等学业奖学金</b>
+        # number: 国家级三等奖
+        # time: 2018.01
+        link: "#"
+      - title: 2018-2019学年<b>东南大学一等学业奖学金</b>
+        # number: 国家级二等奖
+        # time: 2017.12
+        link: "#"
+      - title: 2018届<b>东南大学本科优秀毕业生</b>
+        # number: 国际级二等奖
+        # time: 2017.04
+        link: "#"
+      - title: 2016-2017学年<b>东南大学校长奖学金</b>
+        # number: 国际级二等奖
+        # time: 2017.04
+        link: "#"
+      - title: 2016-2017学年<b>东南大学校三好学生</b>
+        # number: 国际级二等奖
+        # time: 2017.04
+        link: "#"
+      - title: 2016-2017学年<b>中交路桥建设奖学金</b>
+        # number: 国际级二等奖
+        # time: 2017.04
+        link: "#"
+
+experiences:
+    - role: <b>波纹钢腹板组合槽型梁动力性能研究</b>
+      # link: "#"
+      time: 2019.07 - 至今
+      company: 硕士毕业设计
+      picture: TGCW20200713_2043361.gif
+      details: |
+        本课题主要研究新型组合结构：波形钢腹板组合槽形梁的动力学性能，课题预期成果如下：
+        </br>1. 通过理论计算，推导波形钢腹板组合槽型梁考虑剪力滞及剪切变形后的竖向弯曲自振频率计算公式。 
+        </br>2. 对新型结构进行实验室动力特性试验, 实测模型振动频率, 并结合有限元模型验证所推导公式的正确性及精度。 
+        </br>3. 使用多体动力学软件和有限元软件联合仿真，建立列车轨道桥梁多体系统模型，进行车桥耦合振动的影响因素分析以
+        及冲击系数的求解。
+        </br>4.分析车辆行驶速度、路面不平顺、桥梁结构参数对桥梁冲击系数值的影响，对结构进行优化设计，提出合理的结构设计建议。
+   
+    - role: <b>桥梁设计项目——《桃花扇桥》</b>
+      link: "assets/images/THSQ_DETAILS.jpg"
+      time: 2019.07 - 2019.12
+      company: 竞赛项目
+      picture: XRT-9-14-YZY.gif
+      details: |
+        本项目共设计小桥 1 座，为满足前期社会实践调研中村民关于增高桥面高程、增大跨径的要求，
+        此次作品拟选用带<b>V型加强结构轻型刚构桥</b>，减小桥梁的建筑高度，满足增大桥面高程，
+        提高泄洪能力的要求。小桥桥位选择在原有王寨村桥的位置基础上保持不变。采用 Autodesk Revit 
+        软件进行三维建模，构建完整的钢筋、混凝土数据信息系统，可在后期运用 BIM 施工管理平台进行
+        信息化集成，获取施工各阶段的材料工程数量，几何尺寸信息、相对参考坐标，实现全周期信息化管理。
+        </br>-本人为项目组长，负责<b>桥梁造型设计</b>、REVIT建模+出图、负责通过ABAQUS对桥梁结构进行检算；
+        </br>-项目参加<b>第三届“茅以升公益桥—小桥工程”设计大赛获全国一等奖</b>。
+        </br>(项目具体信息可点击标题进行查看)
+
+    - role: <b>桩基托换有限元分析</b>
+      # link: "#"
+      time: 2018.10 - 2018.11
+      company: 横向课题
+      picture: zjth.png
+      details: |
+        本课题针对南京地铁7号线福建路站~城河村站区间隧道穿越福建路桥和福建路西桥这一工程案例，结合对既有桥梁结构形式、
+        现场周边环境、施工条件以及作业空间的调研，提出适合本工程的桩基础托换以及盾构机削桩方案，确保在<b>桩基托换及盾构施工
+        过程中桥梁结构的安全性</b>和正常通行功能的发挥。
+        </br>- 本人负责利用<b>MIDAS/FEA</b>对托换后的桩基承台建立有限元模型；
+        </br>- 通过分析桩基轴力、竖向位移、盖梁内力和托换承台力，以确保在桩基托换及盾构施工过程中桥梁结构的安全性；
+
+    - role: <b>预应力混凝土箱梁早期裂缝研究</b>
+      # link: "#"
+      time: 2017.09 - 2018.06
+      company: 本科毕业设计
+      picture: xlzqkl.png
+      details: |
+        本课题基于杭州湾跨海大桥杭甬高速连接线公路一座产生了<b>早期开裂的预应力混凝土箱梁桥</b>，采用考虑混凝土非线性的
+        实体有限元方法，对箱梁顶板早期开裂的原因进行具体分析，技术路线如下：
+        <div align="center"><img src="assets/images/XLZQKL_JSLX.png" width="60%"></img></div>
+        </br>- 研究证实了<b>分层浇筑的混凝土龄期差及混凝土水化热效应</b>导致的箱梁内部不均匀温度场会引起箱梁顶板-底腹板间的收缩差异，
+        是造成本项目箱梁顶板开裂的两个主要因素（<b>一级因素</b>）；
+        </br>- 通过分析<b>混凝土弹性模量的变化、分层浇筑时间间隔、钢筋的布置和线膨胀系数</b>等可控因素（<b>二级因素</b>）对开裂程度的影响，
+        由二级因素出发，对现浇混凝土箱梁的材料选择、设计方法和施工措施提出合理建议，以改善现浇混凝土箱梁顶板早期开裂现象。   
+
+    - role: <b>桥梁改造项目——《青山镇汤店桥》</b>
+      link: "https://tc.seu.edu.cn/2017/1213/c897a205277/page.htm"
+      time: 2017.07 - 2017.12
+      company: 竞赛项目
+      picture: dyjmys.png
+      details: |
+        本项目对桥址的原有拱桥结构进行调整，将原桥宽4.5m的连续拱式腹孔石拱桥方案调整为3×27m，桥宽7.5m的上
+        承式混凝土梁式腹孔空腹拱。    
+        </br>- 本人为项目技术人员，负责桥梁<b>实地探勘、CAD出图、通过MIDAS对桥梁结构进行检算</b>；
+        </br>- 项目参加“茅以升公益桥—小桥工程”设计大赛获全国三等奖。
+
+    - role: <b>计算机辅助的南京长江大桥维修方案分析</b>
+      link: "assets/images/NJCJDQ_ZB.jpg"
+      time: 2017.01 - 2017.07
+      company: SRTP科研项目
+      picture: njcjdq.png
+      details: |
+        本项目以<b>南京长江大桥正桥上层公路混凝土梁/桥面板的维修改造</b>为研究背景，在连续钢桁架结构体系的双层式公铁两用
+        桥梁的结构受力条件下，基于给定的上层公路混凝土桥面板结构体系改造方案(将原始桥面系替换为<b>正交异性钢结构桥面系</b>)，
+        建模分析改造方法对桥梁性能影响。    
+        </br>- 本人为项目组长，负责通过ANSYS建立大桥<b>维修改造前后各个阶段</b>的有限元模型、分析改造前后桥体在恒载和
+        列车荷载作用下杆件和桥面系的受力、并对施工过程工序合理性进行分析。
+        </br>- 基于项目成果，撰写学术论文，收录于<b>《2017 年全国交通运输院长论坛大学生优秀论文集》</b>。
+
+    - role: <b>GFRP-混凝土-钢组合梁桥试验研究</b>
+      link: "assets/images/GFRP_ZB.jpg"
+      time: 2016.01 - 2016.12
+      company: SRTP科研项目
+      picture: GFRP1.png
+      details: |
+        本项目主要研究了采用<b>不同界面处理方式的GFRP-混凝土组合桥面板</b>的整体受力行为，以期得到能够适用于实际桥梁工程的最
+        优界面处理方式；分析预应力对GFRP-混凝土-钢连续组合梁的<b>破坏模式、裂缝开展情况</b>的影响和GFRP-混凝土-钢
+        组合梁在纯扭状态下的裂缝开展情况以及破坏模式；
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: 学术成果
+    item1: 代表性论文
+    item2: 代表性专利
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers1:
+      - title: 1. <u>Ziye Yang</u>, Ming Yang, Xueliang Rong, Linjie Tian, "Theoretical and Numerical Study on Dynamic Characteristics of Composite Trough Girder with Corrugated Steel Webs", ASCE's Journal of Bridge Engineering, In Review.
+        link: "#"
+    papers2:
+      - title: 1. 杨明, <u>杨子晔</u>,何晓晖,张海龙,田林杰,一种基于Excel的波形钢腹板组合槽型梁Abaqus参数化建模及分析方法,审查中
+        link: "#"
+
+activities:
+    - role: <b>学术部部长</b>
+      time: 2019.07 - 至今
+      company: 东南大学交通学院研究生会
+      details: |
+       -负责组织学术讲座(3次)、学术沙龙(1次)、校庆论文报告会(1次)，为交院师生提供学术交流平台。
+    - role: <b>宣传部副部长</b>
+      time: 2015.09 - 2016.10
+      company: 东南大学学生团体联合会
+      details: |
+       -负责校内大型活动（新生杯、院系杯、百团大战等）宣传品（喷绘、海报、展架等）的设计20余项。
+       -2015-2016学年东南大学学生团体联合会优秀干部
+
+skills1:
+    title: 专业技能
+    toolset:
+      - name: <b>专业相关软体</b>
+        title: -MATLAB，ABAQUS，ANSYS，OpenSees，MIDAS，SIMPACK，REVIT，CAD，Sketch & Photoshop...
+        level: 98%
+
+      - name: <b>编程语言</b>
+        title: -<a href="https://coursera.org/share/cc9ef0a0042bf10c00a79bfb5cddb432"><u>Javascript，HTML5 & CSS</u></a>，Python，C++，Fortran...
+        level: 98%
+
+      - name: <b>技能证书</b>
+        title: -<a href="https://coursera.org/share/d6cd0aa67e414c0a7ddf23db8758deae"><u>深度学习</u></a>、全国BIM等级一级，全国计算机等级考试二级...
+        level: 98%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Ziye Yang</a>
